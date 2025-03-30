@@ -1,0 +1,41 @@
+html {
+    height: 100%;
+    width: 100%; 
+}
+
+#about{
+    background-color:  rgb(155, 155, 212);
+}
+
+#work{
+    background-color: rgb(145, 220, 220);
+}
+
+#contact {
+    background-color: rgb(246, 175, 220);
+}
+
+.about:hover { 
+    background-color: red; 
+}
+
+ul {
+    list-style: none; 
+    text-align: center;
+}
+
+ul li { 
+    display: inline; 
+}
+
+li { 
+    padding-right: 40px; 
+}
+
+ul li a { 
+    text-decoration: none;
+}
+
+body{
+    margin:0; 
+}
